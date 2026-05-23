@@ -161,15 +161,14 @@ I'm a **Software Engineer** with **4+ years of experience** building scalable ba
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishBellamkonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnishBellamkonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishBellamkonda&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishBellamkonda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnishBellamkonda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" width="50%" alt="Top Languages"/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
