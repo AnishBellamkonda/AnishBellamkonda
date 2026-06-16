@@ -1,4 +1,4 @@
-````markdown
+
 <!-- ===================== HEADER ===================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0A3D62,100:00C2FF&height=210&section=header&text=Anish%20Bellamkonda&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Applied%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Anish Bellamkonda" />
@@ -241,4 +241,4 @@ I am open to conversations about **backend engineering, distributed systems, clo
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0A3D62,100:0D1117&height=100&section=footer" alt="Footer banner" />
-```
+
